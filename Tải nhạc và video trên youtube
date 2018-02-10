@@ -1,0 +1,18 @@
+Trong bài post dưới có một bạn chia sẻ phần mềm Youtube Downloader, cụ thể là 
+code bằng C#. Góp ý luôn, nếu muốn làm thì cứ tìm hiểu lib youtubeExtractor
+
+Thủ thuật để tải các video, playlist hay là tách nhạc của các video, playlist trên youtube đơn giản thế này!
+
+Hãy thêm đuôi ss vào phía trước https://www. của video/playlist cần tải!
+
+Ví dụ: https://www.ssyoutube.com/watch?v=r0JSL55ELuc
+
+Các tách nhạc của video/playlist ta chỉ cần loại bỏ cụm từ ube trong link nhạc hoặc playlist cần tải!
+
+Ví dụ: https://www.yout.com/watch?v=r0JSL55ELuc
+
+Nó sẽ thành: https://www.yout.com/watch?v=r0JSL55ELuc
+
+#Chiase #Thuthuat #ITNGHIEPDU
+
+
